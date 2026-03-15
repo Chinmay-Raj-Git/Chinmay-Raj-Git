@@ -16,15 +16,29 @@ Focused on building scalable backend systems and full-stack applications
 
 ---
 
-# 👨‍💻 About Me
+<table align="center">
+<tr>
+<td width="60%" valign="top">
+
+## 👨‍💻 About Me
 
 - Full-stack developer focused on **React + Spring Boot architecture**
 - Strong interest in **backend systems, APIs, and scalable applications**
 - Building production-ready applications and improving system design skills
 
----
+<br>
 
-# 🚀 Tech Stack
+## 🧠 LeetCode Stats
+
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/chinmay-raj?theme=dark&font=Montserrat&colors=%231a1b27%2C%20%232b3752%2C%20%23bf91f3%2C%20%2370a5fd%2C%20%23628fdb&ext=heatmap"/>
+</p>
+
+</td>
+
+<td width="40%" valign="top">
+
+## 🚀 Tech Stack
 
 ### Languages
 <p>
@@ -48,36 +62,34 @@ Focused on building scalable backend systems and full-stack applications
 
 ### Tools
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode"/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,unity"/>
 </p>
 
----
-
-## 🧠 LeetCode Stats
-
-<p align="center">
-<img src="https://leetcard.jacoblin.cool/chinmay-raj?theme=dark&font=Montserrat&colors=%231a1b27%2C%20%232b3752%2C%20%23bf91f3%2C%20%2370a5fd%2C%20%23628fdb&ext=heatmap"/>
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
 # 🛠 Featured Projects
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 <p align="center">
 <a href="https://github.com/Chinmay-Raj-Git/SNIIPE-Store">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chinmay-Raj-Git&repo=SNIIPE-Store&theme=tokyonight"/>
 </a>
-
-<a href="https://github.com/Chinmay-Raj-Git/Ride-Share-and-Pooling">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Chinmay-Raj-Git&repo=Ride-Share-and-Pooling&theme=tokyonight"/>
-</a>
 </p>
 
-## 🛍 SNIIPE Store (Freelance Production Project)
-Full stack eCommerce platform developed for a clothing brand startup.
+### 🛍 SNIIPE Store (Freelance Production Project)
+<i> Visit site: https://sniipe.in </i>
 
-**Tech Stack**
-Flask • Supabase PostgreSQL • HTML • JavaScript • Tailwind CSS
+Developed and Deployed Full-Stack eCommerce Platform for a clothing brand startup.
+
+**Tech Stack**  
+Flask • Supabase PostgreSQL • React • JavaScript • Tailwind CSS
 
 **Features**
 - Product catalog and order management
@@ -85,16 +97,27 @@ Flask • Supabase PostgreSQL • HTML • JavaScript • Tailwind CSS
 - Database-driven backend APIs
 - Responsive UI for customers
 
-Repository: https://github.com/Chinmay-Raj-Git/SNIIPE-Store
+<i>
+Repository:  
+https://github.com/Chinmay-Raj-Git/SNIIPE-Store
+</i>
 
----
+</td>
 
-## 🚗 RideShare System (In Progress)
+<td width="50%" valign="top">
+
+<p align="center">
+<a href="https://github.com/Chinmay-Raj-Git/Ride-Share-and-Pooling">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Chinmay-Raj-Git&repo=Ride-Share-and-Pooling&theme=tokyonight"/>
+</a>
+</p>
+
+### 🚗 RideShare System (In Progress)
+<i> Visit site: To be deployed... </i>
 
 Full stack ride sharing application.
 
-**Tech Stack**
-
+**Tech Stack**  
 React • Spring Boot • PostgreSQL
 
 **Features**
@@ -103,28 +126,25 @@ React • Spring Boot • PostgreSQL
 - Database schema for drivers, users, and rides
 - Scalable backend architecture
 
+<i>
+Repository:  
+https://github.com/Chinmay-Raj-Git/Ride-Share-and-Pooling
+</i>
+
+</td>
+</tr>
+</table>
+
 ---
-
-## 💰 Personal Finance Tracker
-
-A web application to track income and expenses with analytics.
-
-**Tech Stack**
-
-Flask • SQLite • JavaScript
-
-**Features**
-- Income and expense tracking
-- OCR receipt scanning
-- Date-based filtering and dashboard analytics
 
 ---
 
 # 🚧 Currently Building
 
-- 🚗 RideShare Full Stack System (React + Spring Boot + PostgreSQL)
-- 📚 Practicing Data Structures & Algorithms (Striver A2Z)
-- ⚙️ Improving backend architecture and system design
+- RideShare Full Stack System (React + Spring Boot + PostgreSQL)
+- Learning MongoDB to enhance NoSQL system handling
+- Practicing Data Structures & Algorithms
+- Improving backend architecture and system design
 
 ---
 
