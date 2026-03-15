@@ -6,27 +6,49 @@
 <!-- <h1 align="center">Hi 👋, I'm Chinmay Raj</h1>
 <h3 align="center">Full Stack Developer | React • Spring Boot • PostgreSQL</h3> -->
 
-<p align="center">
+<h3 align="center">
 B.Tech CSE Student (3rd Year) <br>
+Full Stack Developer | React • Spring Boot • PostgreSQL
+</h3>
+<h4 align="center">
 Focused on building scalable backend systems and full-stack applications
-</p>
+</h4>
 
 ---
 
 # 👨‍💻 About Me
 
-- 💻 Full-stack developer focused on **React + Spring Boot architecture**
-- ⚙️ Strong interest in **backend systems, APIs, and scalable applications**
-- 🧠 Currently preparing for **software engineering placements**
-- 📚 Practicing **Data Structures & Algorithms (Striver A2Z + LeetCode)**
-- 🚀 Building production-ready applications and improving system design skills
+- Full-stack developer focused on **React + Spring Boot architecture**
+- Strong interest in **backend systems, APIs, and scalable applications**
+- Building production-ready applications and improving system design skills
 
 ---
 
 # 🚀 Tech Stack
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,js,react,spring,flask,postgres,git,docker,linux,tailwind&perline=6"/>
+### Languages
+<p>
+<img src="https://skillicons.dev/icons?i=c,java,python,javascript,mysql"/>
+</p>
+
+### Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite"/>
+</p>
+
+### Backend
+<p>
+<img src="https://skillicons.dev/icons?i=spring,flask,nodejs"/>
+</p>
+
+### Databases
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb"/>
+</p>
+
+### Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode"/>
 </p>
 
 ---
