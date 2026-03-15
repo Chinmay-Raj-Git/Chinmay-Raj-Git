@@ -62,7 +62,7 @@ Focused on building scalable backend systems and full-stack applications
 
 ### Tools
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,unity"/>
+<img src="https://skillicons.dev/icons?i=aws,git,github,docker,postman,supabase,vscode,unity"/>
 </p>
 
 </td>
