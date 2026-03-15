@@ -34,7 +34,7 @@ Focused on building scalable backend systems and full-stack applications
 ## 🧠 LeetCode Stats
 
 <p align="center">
-<img src="https://leetcard.jacoblin.cool/chinmay-raj?theme=transparent&font=Montserrat&ext=heatmap"/>
+<img src="https://leetcard.jacoblin.cool/chinmay-raj?theme=dark&font=Montserrat&colors=%231a1b27%2C%20%232b3752%2C%20%23bf91f3%2C%20%2370a5fd%2C%20%23628fdb&ext=heatmap"/>
 </p>
 
 ---
@@ -109,7 +109,7 @@ Flask • SQLite • JavaScript
 # 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Chinmay-Raj-Git&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Chinmay-Raj-Git&show_icons=true&theme=tokyonight&hide_rank=true"/>
 </p>
 
 <p align="center">
