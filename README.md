@@ -1,5 +1,10 @@
-<h1 align="center">Hi 👋, I'm Chinmay Raj</h1>
-<h3 align="center">Full Stack Developer | React • Spring Boot • PostgreSQL</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Welcome%20to%20My%20GitHub&fontSize=40&fontColor=ffffff" />
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Chinmay+Raj;Full+Stack+Developer;React+%2B+Spring+Boot+Developer;Backend+Systems+Enthusiast" />
+</p>
+<!-- <h1 align="center">Hi 👋, I'm Chinmay Raj</h1>
+<h3 align="center">Full Stack Developer | React • Spring Boot • PostgreSQL</h3> -->
 
 <p align="center">
 B.Tech CSE Student (3rd Year) <br>
@@ -20,34 +25,31 @@ Focused on building scalable backend systems and full-stack applications
 
 # 🚀 Tech Stack
 
-### Languages
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,javascript,sql"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,python,js,react,spring,flask,postgres,git,docker,linux,tailwind&perline=6"/>
 </p>
 
-### Frontend
-<p>
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind"/>
-</p>
+---
 
-### Backend
-<p>
-<img src="https://skillicons.dev/icons?i=spring,flask,nodejs"/>
-</p>
+## 🧠 LeetCode Stats
 
-### Databases
-<p>
-<img src="https://skillicons.dev/icons?i=postgres"/>
-</p>
-
-### Tools
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode"/>
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/chinmay-raj?theme=dark&font=baloo&ext=heatmap"/>
 </p>
 
 ---
 
 # 🛠 Featured Projects
+
+<p align="center">
+<a href="https://github.com/Chinmay-Raj-Git/SNIIPE-Store">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Chinmay-Raj-Git&repo=SNIIPE-Store&theme=tokyonight"/>
+</a>
+
+<a href="https://github.com/Chinmay-Raj-Git/Ride-Share-and-Pooling">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Chinmay-Raj-Git&repo=Ride-Share-and-Pooling&theme=tokyonight"/>
+</a>
+</p>
 
 ## 🛍 SNIIPE Store (Freelance Production Project)
 Full stack eCommerce platform developed for a clothing brand startup.
@@ -96,11 +98,11 @@ Flask • SQLite • JavaScript
 
 ---
 
-# 📚 Current Focus
+# 🚧 Currently Building
 
-- Solving **Data Structures & Algorithms (LeetCode)**
-- Building **backend-heavy full stack applications**
-- Improving **system design fundamentals**
+- 🚗 RideShare Full Stack System (React + Spring Boot + PostgreSQL)
+- 📚 Practicing Data Structures & Algorithms (Striver A2Z)
+- ⚙️ Improving backend architecture and system design
 
 ---
 
@@ -120,6 +122,12 @@ Flask • SQLite • JavaScript
 
 ---
 
+## 📈 GitHub Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Chinmay-Raj-Git&theme=tokyo-night"/>
+
+---
+
 # 🌐 Connect With Me
 
 <p>
@@ -135,3 +143,8 @@ Flask • SQLite • JavaScript
 ---
 
 ⭐ If you find my projects interesting, feel free to explore my repositories!
+
+---
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat"/>
+</p>
