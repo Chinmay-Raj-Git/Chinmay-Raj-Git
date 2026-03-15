@@ -34,7 +34,7 @@ Focused on building scalable backend systems and full-stack applications
 ## 🧠 LeetCode Stats
 
 <p align="center">
-<img src="https://leetcard.jacoblin.cool/chinmay-raj?theme=transparent&font=Acme&ext=heatmap"/>
+<img src="https://leetcard.jacoblin.cool/chinmay-raj?theme=transparent&font=Montserrat&ext=heatmap"/>
 </p>
 
 ---
