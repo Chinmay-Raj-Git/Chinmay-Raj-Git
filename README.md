@@ -62,7 +62,8 @@ Focused on building scalable backend systems and full-stack applications
 
 ### Tools
 <p>
-<img src="https://skillicons.dev/icons?i=aws,git,github,docker,postman,supabase,vscode,unity"/>
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,jenkins,maven,postman"/>
+<img src="https://skillicons.dev/icons?i=supabase,unity,vscode"/>
 </p>
 
 </td>
@@ -79,7 +80,7 @@ Focused on building scalable backend systems and full-stack applications
 
 <p align="center">
 <a href="https://github.com/Chinmay-Raj-Git/SNIIPE-Store">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Chinmay-Raj-Git&repo=SNIIPE-Store&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Chinmay-Raj-Git&repo=SNIIPE-Store&description_lines_count=2&theme=tokyonight"/>
 </a>
 </p>
 
@@ -108,7 +109,7 @@ https://github.com/Chinmay-Raj-Git/SNIIPE-Store
 
 <p align="center">
 <a href="https://github.com/Chinmay-Raj-Git/Ride-Share-and-Pooling">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Chinmay-Raj-Git&repo=Ride-Share-and-Pooling&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Chinmay-Raj-Git&repo=Ride-Share-and-Pooling&description_lines_count=2&theme=tokyonight"/>
 </a>
 </p>
 
