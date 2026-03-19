@@ -2,9 +2,6 @@
 <img src="https://komarev.com/ghpvc/?username=Chinmay-Raj-Git&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Welcome%20to%20My%20GitHub&fontSize=40&fontColor=ffffff" />
-
-
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Chinmay+Raj;Full+Stack+Developer;React+%2B+Spring+Boot+Developer;Backend+Systems+Enthusiast" />
 </p>
