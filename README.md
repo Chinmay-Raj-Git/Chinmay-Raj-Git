@@ -18,62 +18,6 @@ Focused on building scalable backend systems and full-stack applications
 
 ---
 
-<table align="center">
-<tr>
-<td width="60%" valign="top">
-
-## 👨‍💻 About Me
-
-- Full-stack developer focused on **React + Spring Boot architecture**
-- Strong interest in **backend systems, APIs, and scalable applications**
-- Building production-ready applications and improving system design skills
-
-<br>
-
-## 🧠 LeetCode Stats
-
-<p align="center">
-<img src="https://leetcard.jacoblin.cool/chinmay-raj?theme=dark&font=Montserrat&colors=%231a1b27%2C%20%232b3752%2C%20%23bf91f3%2C%20%2370a5fd%2C%20%23628fdb&ext=heatmap"/>
-</p>
-
-</td>
-
-<td width="40%" valign="top">
-
-## 🚀 Tech Stack
-
-### Languages
-<p>
-<img src="https://skillicons.dev/icons?i=c,java,python,javascript,mysql"/>
-</p>
-
-### Frontend
-<p>
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite"/>
-</p>
-
-### Backend
-<p>
-<img src="https://skillicons.dev/icons?i=spring,flask,nodejs"/>
-</p>
-
-### Databases
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb"/>
-</p>
-
-### Tools
-<p>
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github,jenkins,maven,postman"/>
-<img src="https://skillicons.dev/icons?i=supabase,unity,vscode"/>
-</p>
-
-</td>
-</tr>
-</table>
-
----
-
 # 🛠 Featured Projects
 
 <table>
@@ -139,6 +83,63 @@ https://github.com/Chinmay-Raj-Git/Ride-Share-and-Pooling
 </table>
 
 ---
+
+<table align="center">
+<tr>
+<td width="60%" valign="top">
+
+## 👨‍💻 About Me
+
+- Full-stack developer focused on **React + Spring Boot architecture**
+- Strong interest in **backend systems, APIs, and scalable applications**
+- Building production-ready applications and improving system design skills
+
+<br>
+
+## 🧠 LeetCode Stats
+
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/chinmay-raj?theme=dark&font=Montserrat&colors=%231a1b27%2C%20%232b3752%2C%20%23bf91f3%2C%20%2370a5fd%2C%20%23628fdb&ext=heatmap"/>
+</p>
+
+</td>
+
+<td width="40%" valign="top">
+
+## 🚀 Tech Stack
+
+### Languages
+<p>
+<img src="https://skillicons.dev/icons?i=c,java,python,javascript,mysql"/>
+</p>
+
+### Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite"/>
+</p>
+
+### Backend
+<p>
+<img src="https://skillicons.dev/icons?i=spring,flask,nodejs"/>
+</p>
+
+### Databases
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb"/>
+</p>
+
+### Tools
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,jenkins,maven,postman"/>
+<img src="https://skillicons.dev/icons?i=supabase,unity,vscode"/>
+</p>
+
+</td>
+</tr>
+</table>
+
+---
+
 
 ---
 
